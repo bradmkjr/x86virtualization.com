@@ -1,0 +1,23 @@
+body {
+	position: relative;
+	min-height: 100vh;
+}
+
+img {
+	margin: 0;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	max-width: 80vw;
+	max-height: 80vh;
+}
+
+/*
+     FILE ARCHIVED ON <!--#echo var="DATE_LOCAL" --> AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON <!--#echo var="LAST_MODIFIED" -->.
+     RASPBERY PI NODE: <!--#echo var="SERVER_ADMIN" -->
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
