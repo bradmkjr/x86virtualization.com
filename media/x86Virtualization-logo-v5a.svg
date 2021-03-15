@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 700">
+  <defs>
+    <pattern id="img1" patternUnits="userSpaceOnUse" width="100%" height="100%">
+      <image href="animated-smoke-v4.gif" x="0" y="0" width="100%" height="100%" />
+    </pattern>
+    <style>
+      #Master {
+        -webkit-filter: drop-shadow( 10px 10px 10px rgba(0, 0, 0, .7));
+        filter: drop-shadow( 10px 10px 10px rgba(0, 0, 0, .7));
+      }
+    </style>
+  </defs>
+  <g id="Master">
+    <path d="M66.893,30H608.588l57.731,76.568L429.112,660.079H317.648L15.761,109.94,66.893,30M277.731,207.158l75.238,137.108,58.757-137.108H277.731"
+      style="" fill="url(#img1)"/>
+  </g>
+  <g id="Top">
+    <polyline points="66.893 30 608.588 30 666.319 106.568 224.224 109.651 352.969 344.266 303.416 459.894 66.893 30" style="fill: #333" fill-opacity=".625"/>
+  </g>
+  <g id="Right">
+    <polyline points="224.224 109.651 666.319 106.568 429.112 660.079 317.648 660.079 508.962 207.158 277.731 207.158 224.224 109.651" style="fill: #FFF" fill-opacity=".625"/>
+  </g>
+  <g id="Left">
+    <polyline points="66.893 30 303.416 459.894 411.726 207.158 508.962 207.158 317.648 660.079 15.761 109.94 66.893 30" style="fill: #888" fill-opacity=".625"/>
+  </g>
+</svg>
+<!-- Photo by https://opengameart.org/content/smoke-aura -->
