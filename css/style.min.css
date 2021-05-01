@@ -18,6 +18,18 @@ svg g#Master {
             filter: drop-shadow( 10px 10px 10px rgba(0, 0, 0, .7));
           }
 
+a.wpengine-link {
+        position: absolute;
+        bottom: 1vh;
+        text-align: center;
+        text-decoration: none;
+        color: #333;
+        left: 0;
+        right: 0;
+        width: 100%;
+        display: block;
+}
+
 /*
      FILE ARCHIVED ON <!--#echo var="DATE_LOCAL" --> AND RETRIEVED FROM THE
      INTERNET ARCHIVE ON <!--#echo var="LAST_MODIFIED" -->.
